@@ -1,5 +1,6 @@
 # R-Programming
-Course available: https://www.coursera.org/learn/r-programming
+My solutions to the programming assignments in the course https://www.coursera.org/learn/r-programming
 
 ## Folders
-### Week 2 - my solutions to the programming assignment for Week 2
+
+Week 2
