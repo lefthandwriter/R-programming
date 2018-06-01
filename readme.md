@@ -7,3 +7,4 @@ Week 2 - Air Pollution. [Notebook](https://github.com/lefthandwriter/R-programmi
 
 Week 3 - Lexical Scoping. [Notebook](https://github.com/lefthandwriter/R-programming/blob/master/Week3/assignment2.ipynb)
 
+Week 4 - Hospital Ranking. [Notebook](https://github.com/lefthandwriter/R-programming/blob/master/Week4/Week4-assignment.ipynb)
